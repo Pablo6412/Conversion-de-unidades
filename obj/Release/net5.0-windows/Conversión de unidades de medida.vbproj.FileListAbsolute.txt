@@ -1,0 +1,19 @@
+C:\Users\fliac\source\repos\Conversión de unidades de medida\bin\Release\net5.0-windows\Conversión de unidades de medida.exe
+C:\Users\fliac\source\repos\Conversión de unidades de medida\bin\Release\net5.0-windows\Conversión de unidades de medida.deps.json
+C:\Users\fliac\source\repos\Conversión de unidades de medida\bin\Release\net5.0-windows\Conversión de unidades de medida.runtimeconfig.json
+C:\Users\fliac\source\repos\Conversión de unidades de medida\bin\Release\net5.0-windows\Conversión de unidades de medida.runtimeconfig.dev.json
+C:\Users\fliac\source\repos\Conversión de unidades de medida\bin\Release\net5.0-windows\Conversión de unidades de medida.dll
+C:\Users\fliac\source\repos\Conversión de unidades de medida\bin\Release\net5.0-windows\ref\Conversión de unidades de medida.dll
+C:\Users\fliac\source\repos\Conversión de unidades de medida\bin\Release\net5.0-windows\Conversión de unidades de medida.pdb
+C:\Users\fliac\source\repos\Conversión de unidades de medida\obj\Release\net5.0-windows\Conversión_de_unidades_de_medida.Form1.resources
+C:\Users\fliac\source\repos\Conversión de unidades de medida\obj\Release\net5.0-windows\Conversión de unidades de medida.vbproj.GenerateResource.cache
+C:\Users\fliac\source\repos\Conversión de unidades de medida\obj\Release\net5.0-windows\Conversión de unidades de medida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fliac\source\repos\Conversión de unidades de medida\obj\Release\net5.0-windows\Conversión de unidades de medida.AssemblyInfoInputs.cache
+C:\Users\fliac\source\repos\Conversión de unidades de medida\obj\Release\net5.0-windows\Conversión de unidades de medida.AssemblyInfo.vb
+C:\Users\fliac\source\repos\Conversión de unidades de medida\obj\Release\net5.0-windows\Conversión de unidades de medida.vbproj.CoreCompileInputs.cache
+C:\Users\fliac\source\repos\Conversión de unidades de medida\obj\Release\net5.0-windows\Conversión de unidades de medida.dll
+C:\Users\fliac\source\repos\Conversión de unidades de medida\obj\Release\net5.0-windows\ref\Conversión de unidades de medida.dll
+C:\Users\fliac\source\repos\Conversión de unidades de medida\obj\Release\net5.0-windows\Conversión de unidades de medida.pdb
+C:\Users\fliac\source\repos\Conversión de unidades de medida\obj\Release\net5.0-windows\Conversión de unidades de medida.genruntimeconfig.cache
+C:\Users\fliac\source\repos\Conversión de unidades de medida\obj\Release\net5.0-windows\Conversión_de_unidades_de_medida.Resources.resources
+C:\Users\fliac\source\repos\Conversión de unidades de medida\obj\Release\net5.0-windows\Conversión de unidades de medida.vbprojAssemblyReference.cache

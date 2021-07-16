@@ -1,0 +1,5 @@
+C:\Users\fliac\Desktop\Nueva carpeta\Conversión de unidades de medida.exe
+C:\Users\fliac\Desktop\Nueva carpeta\Conversión de unidades de medida.dll
+C:\Users\fliac\Desktop\Nueva carpeta\Conversión de unidades de medida.deps.json
+C:\Users\fliac\Desktop\Nueva carpeta\Conversión de unidades de medida.runtimeconfig.json
+C:\Users\fliac\Desktop\Nueva carpeta\Conversión de unidades de medida.pdb

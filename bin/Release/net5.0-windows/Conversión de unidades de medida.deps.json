@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Conversión de unidades de medida/1.0.0": {
+        "runtime": {
+          "Conversión de unidades de medida.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversión de unidades de medida/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
